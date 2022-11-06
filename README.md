@@ -21,6 +21,6 @@ Tools:
 		- [Game of life](https://github.com/Chemafiz/portfolio/tree/main/game%20of%20life): Classic programming project with visualization.  
 		- [Simulation of galaxy collision](https://github.com/Chemafiz/portfolio/tree/main/galaxy%20collision%20simulation): Simulating galaxy collisions with Python is not an easy task, but I tried my best :)
 		- [Digits recognition](https://github.com/Chemafiz/portfolio/tree/main/digits%20recognition): The use of classical machine learning algorithms for the classification of numbers. The model was then used to make a small program to recognize the digits entered by the user in real-time.  
-Tools:
-	<img src="https://img.shields.io/badge/-pygame-1b2638?style=flat-square&logo=pygame&logoColor=orange"/>
+		
+Tools: <img src="https://img.shields.io/badge/-pygame-1b2638?style=flat-square&logo=pygame&logoColor=orange"/>
 	
