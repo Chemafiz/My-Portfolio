@@ -9,7 +9,12 @@ Repository containing portfolio projects. Presented in the form of Jupyter noteb
 	- [Spaceship titanic classification](https://github.com/Chemafiz/portfolio/blob/main/spaceship_titanic.ipynb): There was a disaster on board the spaceship. Some people have been transferred to another dimension. The model classifies passengers who have been transferred. A legendary example of a classification from Kaggle :) 
 	- [Star type classification](https://github.com/Chemafiz/portfolio/blob/main/star_classification.ipynb): Astronomers categorize stars by type. Each type has its own unique parameters. The model classifies newly known stars based on this parameters. 
 
-	_Tools: scikit-learn, Pandas <img src="https://img.shields.io/badge/-pandas-1b2638?style=flat-square&logo=pandas&logoColor=orange"/>, Matplotlib, NumPy  
+	_Tools:
+	<img src="https://img.shields.io/badge/-scikitlearn-1b2638?style=flat-square&logo=scikitlearn&logoColor=orange"/>
+	<img src="https://img.shields.io/badge/-pandas-1b2638?style=flat-square&logo=pandas&logoColor=orange"/>
+	<img src="https://img.shields.io/badge/-numpy-1b2638?style=flat-square&logo=numpy&logoColor=orange"/>
+	<img src="https://img.shields.io/badge/-matplotlib-1b2638?style=flat-square&logo=matplotlib&logoColor=orange"/>
+	<img src="https://img.shields.io/badge/-numpy-1b2638?style=flat-square&logo=numpy&logoColor=orange"/>
 
 - ### Micro Projects: 
 
