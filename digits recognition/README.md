@@ -3,15 +3,7 @@
 Done:  
 - trained model and simple evaluation  
 - a small program to recognize the numbers entered by the user in real time  
-  
-Work in progress:
-- training the model with "more advanced" algorithms (random forest, AdaBoost, XGBoost, stacking)
-
-In the future:  
-- training the model with the artificial neural networks (I have to learn it :) )  
-
-
-
+   
 Example of running program:
 
 
