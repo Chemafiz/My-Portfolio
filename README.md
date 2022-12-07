@@ -4,7 +4,7 @@ Repository containing portfolio projects. Presented in the form of Jupyter noteb
 ## Contents
 
 - ### Machine Learning
-	- [World Cup 2022 winner classifier](https://github.com/Chemafiz/My-Portfolio/blob/main/world_cup_2022.ipynb): Trying to predict which team will win during a given FIFA World Cup 2022 match in Qatar using supervised machine learning algorithms. WORK IN PROGRESS
+	- [World Cup 2022 winner classifier](https://github.com/Chemafiz/My-Portfolio/blob/main/world_cup_2022.ipynb): Trying to predict which team will win during a given FIFA World Cup 2022 match in Qatar using supervised machine learning algorithms. 
 	- [Spaceship titanic classification](https://github.com/Chemafiz/portfolio/blob/main/spaceship_titanic.ipynb): There was a disaster on board the spaceship. Some people have been transferred to another dimension. The model classifies passengers who have been transferred. A legendary example of a classification from Kaggle :)  
 	- [Loan Prediction classification - can i get a loan?](https://github.com/Chemafiz/portfolio/blob/main/loan_prediction.ipynb): Model for predicting credit decisions based on personal data. One of my first ML projects.   
 	- [Star type classification](https://github.com/Chemafiz/portfolio/blob/main/star_classification.ipynb): Astronomers categorize stars by type. Each type has its own unique parameters. The model classifies newly known stars based on this parameters. 
