@@ -20,7 +20,7 @@ Tools:
 	- __Python__
 		- [Game of life](https://github.com/Chemafiz/portfolio/tree/main/game%20of%20life): Classic programming project with visualization.  
 		- [Simulation of galaxy collision](https://github.com/Chemafiz/portfolio/tree/main/galaxy%20collision%20simulation): Simulating galaxy collisions with Python is not an easy task, but I tried my best :)
-		- [Digits recognition](https://github.com/Chemafiz/portfolio/tree/main/digits%20recognition): The use of supervised machine learning algorithms for the classification of numbers. The model was then used to make a small program to recognize the digits entered by the user in real-time. The project is also something of a sandbox for testing algorithms and methods like: PCA, clustering, Ensemble learning
+		- [Digits recognition](https://github.com/Chemafiz/portfolio/tree/main/digits%20recognition): The use of supervised/unsupervised machine learning algorithms and deep learning (simple Perceptrone, CNN) for the digits classification. The model was then used to make a small program to recognize the digits entered by the user in real-time. The project is also something of a sandbox for testing algorithms.
 		
 Tools: <img src="https://img.shields.io/badge/-pygame-1b2638?style=flat-square&logo=pygame&logoColor=orange"/>
 	
