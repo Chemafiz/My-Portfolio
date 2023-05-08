@@ -25,5 +25,5 @@ Tools:
 Tools: <img src="https://img.shields.io/badge/-pygame-1b2638?style=flat-square&logo=pygame&logoColor=orange"/>
 
 - ### University projects : 
-	- [Implementation of kNN algorithm using CUDA](https://github.com/Chemafiz/CUDA-kNN-implemantation):s. Implementing the algorithm on CPU can be
+	- [Implementation of kNN algorithm using CUDA](https://github.com/Chemafiz/CUDA-kNN-implemantation): Implementing the algorithm on CPU can be
 time-consuming and limiting in terms of processing power, especially when dealing with large datasets. In this university report, I presented the implementation of kNN algorithm using CUDA.   
