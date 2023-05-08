@@ -23,4 +23,7 @@ Tools:
 		- [Digits recognition](https://github.com/Chemafiz/portfolio/tree/main/digits%20recognition): The use of supervised/unsupervised machine learning algorithms and deep learning (simple Perceptrone, CNN) for the digits classification. The model was then used to make a small program to recognize the digits entered by the user in real-time. The project is also something of a sandbox for testing algorithms. WORK IN PROGRESS
 		
 Tools: <img src="https://img.shields.io/badge/-pygame-1b2638?style=flat-square&logo=pygame&logoColor=orange"/>
-	
+
+- ### University projects : 
+	- [Implementation of kNN algorithm using CUDA](https://github.com/Chemafiz/CUDA-kNN-implemantation):s. Implementing the algorithm on CPU can be
+time-consuming and limiting in terms of processing power, especially when dealing with large datasets. In this university report, I presented the implementation of kNN algorithm using CUDA.   
